@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "HealtSystem",
+    "slug": "HealtSystem",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "52.0.0",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.tuempresa.citasmedicas"
+    },
+    "web": {},
+    "newArchEnabled": true,
+    "extra": {
+      "eas": {
+        "projectId": "f36a686b-d372-4502-a0a2-f29303f5dbea"
+      }
+    }
+  }
+}
